@@ -1,0 +1,4 @@
+campus_management
+campus_management.exe
+*.o
+.vscode/
